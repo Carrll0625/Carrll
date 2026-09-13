@@ -3,6 +3,8 @@ int main()
 {
 
 	printf("hello world\n");
-	printf("-----------------------");
+	printf("-----------------------\n");
+
+	printf("王超金\n");
 	return 0;
 }
